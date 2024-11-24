@@ -2,7 +2,6 @@
   "name": "wline",
   "version": "1.0.0",
   "scripts": {
-    "build": "babel src -d lib",
-    "test": "test.js"
+    "start": "test.js"
   }
 }
